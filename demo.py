@@ -1,1 +1,1 @@
-printf("demo");
+print("demo")
